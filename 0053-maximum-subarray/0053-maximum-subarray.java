@@ -1,0 +1,22 @@
+class Solution {
+    public int maxSubArray(int[] nums) {
+        int sum = 0;
+        int maxi = Integer.MIN_VALUE;
+
+        for(int i = 0; i<nums.length;i++){
+            //step 1: sum create karate hai
+            sum  += nums[i];
+
+            //step 2 : maxi update karate hai
+            maxi = Math.max(maxi , sum);
+
+            //step 3: sum check krte h for -ve value
+            if(sum < 0)
+            sum = 0;
+
+        }
+        //return max value
+        return maxi;
+        
+    }
+}
