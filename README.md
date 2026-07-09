@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0724-find-pivot-index](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
