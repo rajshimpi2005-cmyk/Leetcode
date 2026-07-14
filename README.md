@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0053-maximum-subarray) |
+| [0704-binary-search](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0867-transpose-matrix) |
 ## Hash Table
@@ -64,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
