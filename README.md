@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0704-binary-search](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0724-find-pivot-index) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
