@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0867-transpose-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0867-transpose-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
