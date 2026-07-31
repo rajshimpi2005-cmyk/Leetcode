@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0151-reverse-words-in-a-string](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
