@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0151-reverse-words-in-a-string](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
