@@ -94,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
