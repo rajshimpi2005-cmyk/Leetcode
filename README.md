@@ -52,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
