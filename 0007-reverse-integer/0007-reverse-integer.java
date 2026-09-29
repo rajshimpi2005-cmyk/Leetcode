@@ -1,26 +1,21 @@
 class Solution {
-    public int reverse(int x) {
+    public int reverse(int n) {
 
-        int ans = 0;
+        int reverse = 0;
 
-        while (x != 0) {
+        while (n != 0) {
 
-            int digit = x % 10;
-            x = x / 10;
+            int digit = n % 10;
 
-            if (ans > Integer.MAX_VALUE / 10 ||
-                (ans == Integer.MAX_VALUE / 10 && digit > 7)) {
+            if (reverse > Integer.MAX_VALUE / 10 ||
+                reverse < Integer.MIN_VALUE / 10) {
                 return 0;
             }
 
-            if (ans < Integer.MIN_VALUE / 10 ||
-                (ans == Integer.MIN_VALUE / 10 && digit < -8)) {
-                return 0;
-            }
-
-            ans = ans * 10 + digit;
+            reverse = reverse * 10 + digit;
+            n = n / 10;
         }
 
-        return ans;
+        return reverse;
     }
 }
