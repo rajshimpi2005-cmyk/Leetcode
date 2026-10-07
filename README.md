@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
