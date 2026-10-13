@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0283-move-zeroes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Stack
