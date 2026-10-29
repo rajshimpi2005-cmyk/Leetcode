@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0567-permutation-in-string) |
+| [1768-merge-strings-alternately](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1768-merge-strings-alternately](https://github.com/rajshimpi2005-cmyk/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
